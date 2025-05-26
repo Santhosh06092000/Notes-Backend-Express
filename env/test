@@ -1,0 +1,5 @@
+MONGO_URI = "mongodb://localhost:27017/Notes"
+JWT_SECRET = "aslhjoi_23tn345a_*&$*08757(&**&%nkjhkh)_kjn;kj"
+
+GMAIL_USER= "santhosh06092000@gmail.com"
+GMAIL_PASS= "tkhl iuyb lpbn zfpc"
